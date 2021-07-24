@@ -1,0 +1,27 @@
+body.main{
+	background-image:url(../img/background_web.jpg);
+}
+
+.Title h1 {
+    text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+.table td, .table th {
+    text-align: center;
+    color: rebeccapurple;
+    padding: .75rem;
+    vertical-align: top;
+    /* color: #FFBF2B; */
+    border-top: 3px solid #FA1;
+    border-left: 3px solid #F13;
+}
+.table {
+    margin-left: 361px;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
